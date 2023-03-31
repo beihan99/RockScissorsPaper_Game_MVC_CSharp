@@ -1,0 +1,20 @@
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.exe.config
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.exe
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.pdb
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csprojAssemblyReference.cache
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock_Scissors_Paper.Properties.Resources.resources
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csproj.GenerateResource.cache
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csproj.CoreCompileInputs.cache
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.exe
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.pdb
+C:\Users\Selvi\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock_Scissors_Paper.ChooseForm.resources
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.exe.config
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.exe
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\Rock-Scissors-Paper.pdb
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csprojAssemblyReference.cache
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock_Scissors_Paper.ChooseForm.resources
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock_Scissors_Paper.Properties.Resources.resources
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csproj.GenerateResource.cache
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.exe
+C:\Users\Dell Vostro 3580\source\repos\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\Rock-Scissors-Paper.pdb
